@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233915747851",
+    "firebase_url": "https://babynames2847.firebaseio.com",
+    "project_id": "babynames2847",
+    "storage_bucket": "babynames2847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233915747851:android:8e014576d644f4cc",
+        "android_client_info": {
+          "package_name": "com.example.babynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233915747851-pmkn83eqkp6utitke71pfclsab5fkrc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babynames",
+            "certificate_hash": "78e20f07a50a3c6402fd902586768ac1343366db"
+          }
+        },
+        {
+          "client_id": "233915747851-gbu59euv4pmp3t7nkl53nk1gkihnrj9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYMfJeSQwawp_PZDn_h3qyqsK2VhUAxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233915747851-gbu59euv4pmp3t7nkl53nk1gkihnrj9a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233915747851-6q2tbdm3na7km25mprasuah9gdb9mq34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.babynames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
